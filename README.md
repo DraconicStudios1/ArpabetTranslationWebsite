@@ -6,4 +6,4 @@ The Arpabet Translation Website is part of the BOSCO Assistant Project, which is
 Input raw text, get an Arpabet translation.
 pretty simple!
 
-# ALL RIGHTS RESERVED, COLT ADAMS 2026
+# Creative Commons 3.0, COLT ADAMS 2026
